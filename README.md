@@ -56,7 +56,15 @@ ___
 `Test`
 
 # 12. Backslash Escape
-\Backslash Escape
 \
 
+# 13. 순서 있는 목록
+1. 순서
+2. 있는
+3. 목록
 
+# 14. 체크박스
+- []
+- [x]
+
+# 15. 
