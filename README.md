@@ -6,5 +6,3 @@
 ###### h6
 - List 1
 
-```python
-print("Hello, World!")
