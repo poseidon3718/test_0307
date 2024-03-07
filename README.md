@@ -49,7 +49,9 @@ print("Hello, World!")
 *** 
 ___
 
+# 10. Tables
 
-
+# 11. Inline Code
+`Test`
 
 
