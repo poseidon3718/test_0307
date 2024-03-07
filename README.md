@@ -51,7 +51,10 @@ ___
 
 # 10. Tables
 
+
 # 11. Inline Code
 `Test`
 
+# 12. Backslash Escape
+\Backslash Escape
 
