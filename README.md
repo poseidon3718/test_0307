@@ -32,10 +32,12 @@ ___굵은 기울임꼴 텍스트___
 # 6. Code Blocks
 ## 6.1 bash
 ```html
-!html```
+!html
+```
 
 ```python
-print("Hello, World!")```
+print("Hello, World!")
+```
 
 # 7. Blockquotes
 - **인용구(Blockquotes)**: `>` 기호를 사용하여 인용구를 작성합니다.
