@@ -31,8 +31,8 @@ ___굵은 기울임꼴 텍스트___
 
 # 6. Code Blocks
 ## 6.1 bash
-```html
-!html
+```
+hello!
 ```
 
 ```python
